@@ -2,7 +2,7 @@
 
 Simple snake game
 
-use the arrow keys
+Instructions: use the arrow keys
 
 demo: https://cl71.github.io/snake-game/
 
